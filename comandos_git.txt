@@ -1,0 +1,19 @@
+git --version
+Muestra la versión instalada de Git.
+Ejemplo: git --version
+
+git init
+Inicializa un repositorio Git.
+Ejemplo: git init
+
+git status
+Muestra el estado actual del repositorio.
+Ejemplo: git status
+
+git add .
+Agrega los archivos al área de preparación.
+Ejemplo: git add .
+
+git commit -m "Primer commit"
+Guarda los cambios con un mensaje descriptivo.
+Ejemplo: git commit -m "Primer commit"
